@@ -1,6 +1,4 @@
 # AccordFolio
-# AccordFolio Web
-
 Frontend for AccordFolio - A tokenized basket protocol on Aptos.
 
 ## Features
